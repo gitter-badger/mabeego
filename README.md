@@ -1,5 +1,5 @@
 # mabeego - Plataform for Build Awesome Games
-=======================
+
 VERSIONS AVAILABLE
 * ENGLISH
 * PORTUGUESE
