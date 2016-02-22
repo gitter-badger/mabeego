@@ -1,5 +1,7 @@
 # mabeego - Plataform for Build Awesome Games
 
+[![Join the chat at https://gitter.im/Gawiga/mabeego](https://badges.gitter.im/Gawiga/mabeego.svg)](https://gitter.im/Gawiga/mabeego?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 VERSIONS AVAILABLE
 * ENGLISH
 * PORTUGUESE
